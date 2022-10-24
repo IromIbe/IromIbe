@@ -1,5 +1,6 @@
 ### Hi there friends👋
 
+[![cherie.png](https://i.postimg.cc/5NrXsFYc/cherie.png)](https://postimg.cc/kBxM4Gvw)
 <!--
 **IromIbe/IromIbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
