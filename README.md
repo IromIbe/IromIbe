@@ -14,6 +14,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+### :hammer_and_wrench: Languages and Tools :
+
+
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Html5-red?style=for-the-badge&logo=html5&logoColor=white" alt="Html Badge"/>
   <img src="https://img.shields.io/badge/Css3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css Badge"/>
@@ -28,3 +31,11 @@
   <img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black" alt="github Badge"/>
   <img src="https://img.shields.io/badge/redux-white?style=for-the-badge&logo=redux&logoColor=purple" alt="redux Badge"/> 
 </div>
+
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iromIbe&theme=dark&hide_border=true&border_radius=16)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=iromIbe&show_icons=true&theme=dark"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iromIbe&layout=compact)](https://github.com/iromIbe/github-readme-stats&theme=dark)
